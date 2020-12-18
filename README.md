@@ -1,5 +1,4 @@
-# QAOA_Sample_Task
-
+# QAOA
 The number paritioning problem can be reformulated as minimising the cost function $H = |(N_i\vec{s_i})^2|$ where ${N_i}$ are the numbers to be minimised and s_i (either +1 or -1) are the apparent weights for those numbers. The set {Ni} is then partitioned if the cost function is zero or minimum. The cost function can be simplified as:
 
 $H = \Sigma(N_i^2 s_i^2) + N_iN_js_is_j$
